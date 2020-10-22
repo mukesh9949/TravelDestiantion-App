@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".tokyohistory">
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="227dp"
+        android:background="@drawable/histjapan"
+        android:text="@string/historytokyo"
+        android:textColor="@android:color/background_light"
+        android:textSize="@dimen/tt" />
+
+    <Button
+        android:id="@+id/buttonthist1"
+        android:layout_width="match_parent"
+        android:layout_height="114dp"
+        android:text="@string/nationalmuseum"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="@dimen/txt" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="56dp" />
+
+    <Button
+        android:id="@+id/buttonthist2"
+        android:layout_width="match_parent"
+        android:layout_height="95dp"
+        android:text="@string/ms"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="@dimen/txt" />
+</LinearLayout>

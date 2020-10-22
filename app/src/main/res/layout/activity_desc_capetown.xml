@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".desc_capetown">
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="227dp"
+        android:background="@drawable/capetown"
+        android:gravity="center"
+        android:text="@string/capetown"
+        android:textColor="@android:color/background_light"
+        android:textSize="@dimen/title" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="match_parent"
+                android:layout_height="55dp" />
+
+            <Button
+                android:id="@+id/buttoncapetownhist"
+                android:layout_width="match_parent"
+                android:layout_height="164dp"
+                android:background="@drawable/capetownhist"
+                android:text="@string/desccapetown"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txt" />
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="match_parent"
+                android:layout_height="46dp" />
+
+            <Button
+                android:id="@+id/buttoncapetownbest"
+                android:layout_width="match_parent"
+                android:layout_height="156dp"
+                android:background="@drawable/capetownbest"
+                android:text="@string/visitcapetown"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txt" />
+
+            <TextView
+                android:id="@+id/textView26"
+                android:layout_width="match_parent"
+                android:layout_height="46dp" />
+
+            <Button
+                android:id="@+id/buttoncapetownfood"
+                android:layout_width="match_parent"
+                android:layout_height="158dp"
+                android:background="@drawable/foodcapetown"
+                android:text="@string/foodcapetown"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txt" />
+
+            <TextView
+                android:id="@+id/textView27"
+                android:layout_width="match_parent"
+                android:layout_height="46dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

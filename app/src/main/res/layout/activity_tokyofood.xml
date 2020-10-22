@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".tokyofood">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="194dp"
+        android:background="@drawable/tokyofood"
+        android:text="@string/foodtokyo"
+        android:textColor="@android:color/background_light"
+        android:textSize="@dimen/desctitle" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="58dp" />
+
+    <Button
+        android:id="@+id/buttontokyofood11"
+        android:layout_width="match_parent"
+        android:layout_height="101dp"
+        android:text="@string/tokyofood1"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="@dimen/txt" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="match_parent"
+        android:layout_height="56dp" />
+
+    <Button
+        android:id="@+id/buttontokyofood2"
+        android:layout_width="match_parent"
+        android:layout_height="98dp"
+        android:text="@string/tokyofood2"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="@dimen/txt" />
+
+</LinearLayout>

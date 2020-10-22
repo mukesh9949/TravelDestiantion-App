@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".places" >
+
+    <TextView
+        android:id="@+id/placesdesc"
+        android:layout_width="match_parent"
+        android:layout_height="194dp"
+        android:background="@drawable/tpg"
+        android:gravity="center"
+        android:text="@string/visitpage"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="@dimen/title" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/visitpage" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="645dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="match_parent"
+                android:layout_height="146dp"
+                android:layout_gravity="center"
+                android:background="@drawable/tokyoo"
+                android:text="@string/tokyo"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txtsize" />
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/visitpage" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="119dp"
+                android:background="@drawable/newyork"
+                android:text="@string/newyork"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txtsize" />
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="match_parent"
+                android:layout_height="18dp"
+                android:text="@string/visitpage" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="match_parent"
+                android:layout_height="137dp"
+                android:background="@drawable/paris"
+                android:text="@string/paris"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txtsize" />
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="match_parent"
+                android:layout_height="24dp"
+                android:text="@string/visitpage" />
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="match_parent"
+                android:layout_height="129dp"
+                android:background="@drawable/capetown"
+                android:text="@string/capetown"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txtsize" />
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="match_parent"
+                android:layout_height="24dp"
+                android:text="@string/visitpage" />
+
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="match_parent"
+                android:layout_height="124dp"
+                android:background="@drawable/rome"
+                android:text="@string/rome"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txtsize" />
+
+            <TextView
+                android:id="@+id/textView23"
+                android:layout_width="match_parent"
+                android:layout_height="23dp"
+                android:text="@string/visitpage" />
+
+            <Button
+                android:id="@+id/button6"
+                android:layout_width="match_parent"
+                android:layout_height="119dp"
+                android:background="@drawable/riode"
+                android:text="@string/riode"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txtsize" />
+
+            <TextView
+                android:id="@+id/textView24"
+                android:layout_width="match_parent"
+                android:layout_height="17dp"
+                android:text="@string/visitpage" />
+
+            <Button
+                android:id="@+id/button7"
+                android:layout_width="match_parent"
+                android:layout_height="135dp"
+                android:background="@drawable/istanbul"
+                android:text="@string/istanbul"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txtsize" />
+
+            <TextView
+                android:id="@+id/textView58"
+                android:layout_width="match_parent"
+                android:layout_height="418dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

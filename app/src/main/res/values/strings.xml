@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Travel Destinations</string>
+    <string name="visitpage" translatable="false">" "</string>
+    <string name="newyork">NEWYORK</string>
+    <string name="paris">PARIS</string>
+    <string name="riode">" RIO DE JANERIO"</string>
+    <string name="istanbul">ISTANBUL</string>
+    <string name="tokyo">TOKYO</string>
+    <string name="rome">ROME</string>
+    <string name="capetown">CAPETOWN</string>
+    <string name="desctokyo">Click Here For Info  About Tokyo History</string>
+    <string name="visittokyo">Best Places  To Visit In Tokyo</string>
+    <string name="historytokyo">Historical Monuments In Tokyo</string>
+    <string name="foodtokyo">Different Types Of Cuisine\'s In Tokyo</string>
+    <string name="historytok">Historical Monuments In Tokyo</string>
+    <string name="tm">" Brief Descripition About Tokyo National Museum"</string>
+    <string name="ms">Meiji Shrine</string>
+    <string name="m3">Sensoji Temple</string>
+    <string name="m4">Imperial Palace</string>
+    <string name="m5">Edo-Tokyo Museum</string>
+    <string name="ttkyo" />
+    <string name="tkyode">Historical Monuments In Tokyo</string>
+    <string name="nationalmuseum">Tokyo National Museum</string>
+    <string name="nationalmuseumdesc">Brief History of Tokyo National Museum</string>
+    <string name="museumdesc">If you\'re looking to learn a little (or a lot) about Japan\'s history, the Tokyo National Museum is the place to go. This museum is one of the country\'s most expansive, housing about 116,000 pieces of art and artifacts that cover the longest recorded history of Japan. Strolling through the halls of its numerous buildings, you\'ll spot relics such as samurai armor and swords (a traveler favorite), delicate pottery, kimonos, calligraphy, paintings, and much more, some of which are designated as national treasures and Important Cultural Properties by the Japanese government. In addition to artifacts from Japan\'s history, you\'ll also find pieces from all across the Asian continent, including Buddhist scrolls that date all the way back to 607.</string>
+    <string name="ticket">Click Here To Book Tickets In Advance</string>
+    <string name="Newyork" />
+    <string name="descnewyork"><a href = "https://www.timeout.com/newyork/attractions-days-out/historical-attractions-in-new-york-you-shouldnt-miss">Click Here For Info  About newyork History</a></string>
+    <string name="descrome"><a href="https://www.10best.com/destinations/italy/rome/attractions/historic-sites/">Click Here For Info  About rome History</a></string>
+    <string name="descisthanbull"><a href = "https://www.turkeytravelcentre.com/blog/best-historical-places-istanbul-turkey/">Click Here For Info  About Isthanbull History</a></string>
+    <string name="descparis"><a herf = "http://www.tripsavvy.com/monuments-and-historic-sites-in-paris-1618630">Click Here For More Info About Paris History</a></string>
+    <string name="desccapetown"><a href = "https://theculturetrip.com/africa/south-africa/articles/10-of-the-best-landmarks-to-see-in-cape-town/">Click Here For Info  About CapeTown History</a></string>
+    <string name="descisthabull">Click Here For Info  About IsthabullHistory</string>
+    <string name="descriodejanerio"><a href= "https://www.inspirock.com/brazil/historical-places-in-rio-de-janeiro">Click Here For Info  About Rio De Janerio History</a></string>
+    <string name="visitnewyork"><a href = "https://www.smartertravel.com/top-11-places-to-visit-in-new-york-city/">Best Places  To Visit In NewYork</a></string>
+    <string name="visitparis"><a href = "https://www.cometoparis.com/paris-guide/what-to-do-in-paris-s938">Best Places  To Visit In Paris</a></string>
+    <string name="visitcapetown"><a href = "https://travel.usnews.com/Cape_Town_South_Africa/Things_To_Do/">Best Places  To Visit In Capetown</a></string>
+    <string name="visitisthabull"><a href = "https://www.touropia.com/tourist-attractions-in-istanbul/">Best Places  To Visit In Isthanbull</a></string>
+    <string name="visitrome"><a href="https://www.planetware.com/tourist-attractions-/rome-i-la-r.htm">Best Places  To Visit In Rome</a></string>
+    <string name="visitriodejaniero"><a href = "https://www.touropia.com/tourist-attractions-in-rio-de-janeiro/">Best Places  To Visit In Rio De Janerio</a></string>
+    <string name="foodnewyork"><a href="https://ny.eater.com/maps/new-york-iconic-dishes">Different Types Of Cuisine\'s In Newyork</a></string>
+    <string name="foodparis"><a href = "https://wanderlustcrew.com/paris-food/">Different Types Of Cuisine\'s In Paris</a></string>
+    <string name="foodrome" ><a href = "https://www.eatingeurope.com/blog/best-food-in-rome/">Different Types Of Cuisine\'s In Rome</a></string>
+    <string name="foodisthanbull" ><a href = "https://www.ourescapeclause.com/best-food-in-istanbul/">Different Types Of Cuisine\'s In Isthanbull</a></string>
+    <string name="foodcapetown" ><a href = "https://www.africanbudgetsafaris.com/blog/40-foods-to-eat-in-cape-town-recommended-by-locals/">Different Types Of Cuisine\'s In Capetown</a></string>
+    <string name="foodriodejanerio" ><a href = "https://www.tripsavvy.com/eating-in-rio-de-janeiro-4062350">Different Types Of Cuisine\'s In Rio De Janerio</a></string>
+    <string name="newyorkdesc">Newyork</string>
+    <string name="paristt">Paris</string>
+    <string name="cape" >CapeTown</string>
+    <string name="rometitle">Rome</string>
+    <string name="riotitle">Rio De Janerio</string>
+    <string name="isthatitle">Isthanbull</string>
+    <string name="descnewyork1">Click Here For Info  About newyork History</string>
+    <string name="descrome1">Click Here For Info  About rome History</string>
+    <string name="descisthanbull1">Click Here For Info  About Isthanbull History</string>
+    <string name="descparis1">Click Here For Info  About Paris History</string>
+    <string name="desccapetown1">Click Here For Info  About CapeTown History</string>
+    <string name="descisthabull1">Click Here For Info  About IsthabullHistory</string>
+    <string name="descriodejanerio1">Click Here For Info  About Rio De Janerio History</string>
+    <string name="visitnewyork1">Best Places  To Visit In NewYork</string>
+    <string name="visitparis1">Best Places  To Visit In Paris</string>
+    <string name="visitcapetown1">Best Places  To Visit In Capetown</string>
+    <string name="visitisthabull1">Best Places  To Visit In Isthanbull</string>
+    <string name="visitrome1">Best Places  To Visit In Rome</string>
+    <string name="visitriodejaniero1">Best Places  To Visit In Rio De Janerio</string>
+    <string name="foodnewyork1">Different Types Of Cuisine\'s In Newyork</string>
+    <string name="foodparis1">Different Types Of Cuisine\'s In Paris</string>
+    <string name="foodrome1" translatable="false">Different Types Of Cuisine\'s In Rome</string>
+    <string name="foodisthanbull1" translatable="false">Different Types Of Cuisine\'s In Isthanbull</string>
+    <string name="foodcapetown1" translatable="false">Different Types Of Cuisine\'s In Capetown</string>
+    <string name="foodriodejanerio1" translatable="false">Different Types Of Cuisine\'s In Rio De Janerio</string>
+    <string name="tok">Tokyo Skytree</string>
+    <string name="tok2">Sensō-ji</string>
+    <string name="tokf1">Sushi</string>
+    <string name="tokf2"> Yakitori (Grilled chicken skewers)</string>
+    <string name="tokf11">Brief Description About Sushi</string>
+    <string name="tokf22"> Brief Description About  Yakitori (Grilled chicken skewers)</string>
+    <string name="meijirdesc" translatable="false">Meiji Shrine (明治神宮, Meiji Jingū) is a shrine dedicated to the deified spirits of Emperor Meiji and his consort, Empress Shoken. Located just beside the JR Yamanote Line\'s busy Harajuku Station, Meiji Shrine and the adjacent Yoyogi Park make up a large forested area within the densely built-up city. The spacious shrine grounds offer walking paths that are great for a relaxing stroll.  The shrine was completed and dedicated to the Emperor Meiji and the Empress Shoken in 1920, eight years after the passing of the emperor and six years after the passing of the empress. The shrine was destroyed during the Second World War but was rebuilt shortly thereafter.</string>
+    <string name="histmejishier">Brief History of Meiji Shrine</string>
+    <string name="tokyofood1">Sushi</string>
+    <string name="tokyofood2">Yakitori (Grilled chicken skewers)</string>
+    <string name="tokyovisit1">Skytree</string>
+    <string name="tokyovisiting2">Tokyo Tower</string>
+    <string name="visitingtokyo1">The Tokyo Skytree (東京スカイツリー) is a television broadcasting tower and landmark of Tokyo. It is the centerpiece of the Tokyo Skytree Town in the Sumida City Ward, not far away from Asakusa. With a height of 634 meters (634 can be read as \"Musashi\", a historic name of the Tokyo Region), it is the tallest structure in Japan and the second tallest in the world at the time of its completion. A large shopping complex with aquarium is located at its base.</string>
+    <string name="tokyovisiting22">Standing 333 meters high in the center of Tokyo, Tokyo Tower (東京タワー) is the world\'s tallest, self-supported steel tower and 13 meters taller than its model, the Eiffel Tower. A symbol of Japan\'s post-war rebirth as a major economic power, Tokyo Tower was the country\'s tallest structure from its completion in 1958 until 2012 when it was surpassed by the Tokyo Skytree. In addition to being a popular tourist spot, Tokyo Tower serves as a broadcast antenna.</string>
+    <string name="visittokyo1">Brief Description about Tokyo Skytree</string>
+    <string name="tokyovisit2">Brief Descripition  about tokyo tower</string>
+    <string name="food2" translatable="false">This is one of the traditional Japanese dishes. You might have already tried it back home or seen it on another Japan food guide. Yakitori is typically cooked over charcoal grills to make the meat crispy outside and tender inside. Seasoning is either (1) salt only or (2) savory tare sauce made from soy sauce, dashi broth, and vinegar.</string>
+    <string name="tokyofood1desc">This is one of the traditional Japanese dishes. You might have already tried it back home or seen it on another Japan food guide. Yakitori is typically cooked over charcoal grills to make the meat crispy outside and tender inside. Seasoning is either (1) salt only or (2) savory tare sauce made from soy sauce, dashi broth, and vinegar.</string>
+    <string name="tokyofood2desc">Japanese people commonly eat Yakitori with beer or sake for dinner. There are a lot of izakaya places that offer good yakitori in Tokyo… but don’t get overwhelmed! Here are some recommendations for you:  Doromamire (Yotsuya/Shinjuku area): They serve great quality chicken and vegetables. The place is always packed with locals in this cozy restaurant with only 30 seats. Reservations recommended. The average price is 5,000+ JPY per person. Torimitsu (Shinjuku): You will be surprised to find this hidden gem in the middle of busy Shinjuku. There are only 10 or so seats and they serve great yakitori meals. The price is moderate and they have a wide range of types of chicken meat, including chicken neck meat (Seseri) and some other parts you have never imagined eating before! This is a good place to eat in Shinjuku and reservations are also required.</string>
+    <string name="tokyofood22desc">Sushi no Midori (Ginza/Akasaka area): A very popular sushi restaurant with multiple locations in Tokyo (Ginza, Akasaka, and Shibuya etc). They serve good quality sushi at a reasonable price, and you definitely need to make reservations or wait in line. Avoid weekends and peak times (e.g. 12 pm and 7 pm etc). Mantenzushi (Tokyo station and Nihonbashi): They serve two dozens sushi pieces and small dishes for only 6,800 JPY for their omakase sushi course. It used to be pretty popular only among locals, but now you will see a lot of foreign visitors. Go there with a small party (2-3 people) to be able to sit down at the sushi counter for a great experience. Reservations recommended. They have two locations (Tokyo station and Nihonbashi). It is easier to make reservations at the Nihonbashi location.</string>
+    <string name="tkhist" translatable="false">Historical Monuments In Tokyo</string>
+    <string name="thm2"><a href="http://www.meijijingu.or.jp/english/">Click Here  To Book Tickets In Advance</a></string>
+    <string name="thm1"><a href="https://www.tnm.jp/?lang=en">Click Here To Book Tickets In Advance</a></string>
+    <string name="tf1"><a href="https://favy-jp.com/topics/144">Best Restraunts To Try Sushi</a></string>
+    <string name="tf2"><a href="https://www.timeout.com/tokyo/restaurants/best-yakitori-restaurants-in-tokyo">Best Restraunts To Try Yakitori</a></string>
+    <string name="tv1"><a href="http://www.tokyo-skytree.jp/en/">Click Here To Book Tickets In Advance</a></string>
+    <string name="tv2"><a href="https://www.tokyotower.co.jp/en.html">Click Here To Book Tickets In Advance</a></string>
+    <string name="nh1">Castle Clinton National Monument</string>
+    <string name="nh2">General Grant National Memorial</string>
+
+
+</resources>

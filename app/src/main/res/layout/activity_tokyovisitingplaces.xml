@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     >
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="228dp"
+        android:background="@drawable/tokyovisiting"
+        android:text="@string/visittokyo"
+        android:textColor="@android:color/background_light"
+        android:textSize="@dimen/ttsp" />
+
+    <Button
+        android:id="@+id/buttonttokyovisit1"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:text="@string/tokyovisit1"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="@dimen/txt" />
+
+    <TextView
+        android:id="@+id/textView54"
+        android:layout_width="match_parent"
+        android:layout_height="46dp" />
+
+    <Button
+        android:id="@+id/buttonttokyovisit2"
+        android:layout_width="match_parent"
+        android:layout_height="95dp"
+        android:text="@string/tokyovisiting2"
+        android:textSize="@dimen/txt"
+        tools:text="@string/tokyovisiting2" />
+
+</LinearLayout>

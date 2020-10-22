@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".desc_rome">
+
+    <TextView
+        android:id="@+id/textView45"
+        android:layout_width="match_parent"
+        android:layout_height="246dp"
+        android:background="@drawable/rome"
+        android:gravity="center"
+        android:text="@string/rome"
+        android:textColor="@android:color/background_light"
+        android:textSize="@dimen/title" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView50"
+                android:layout_width="match_parent"
+                android:layout_height="52dp" />
+
+            <Button
+                android:id="@+id/buttonromehist"
+                android:layout_width="match_parent"
+                android:layout_height="163dp"
+                android:background="@drawable/romehistory"
+                android:text="@string/descrome"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txt" />
+
+            <TextView
+                android:id="@+id/textView51"
+                android:layout_width="match_parent"
+                android:layout_height="49dp" />
+
+            <Button
+                android:id="@+id/buttonromebest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/romebest"
+                android:text="@string/visitrome"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txt" />
+
+            <TextView
+                android:id="@+id/textView52"
+                android:layout_width="match_parent"
+                android:layout_height="49dp" />
+
+            <Button
+                android:id="@+id/buttonromefood"
+                android:layout_width="match_parent"
+                android:layout_height="154dp"
+                android:background="@drawable/romefood"
+                android:text="@string/foodriodejanerio"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txt" />
+
+            <TextView
+                android:id="@+id/textView53"
+                android:layout_width="match_parent"
+                android:layout_height="75dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

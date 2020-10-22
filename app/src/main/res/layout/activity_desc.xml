@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".desc">
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="225dp"
+        android:background="@drawable/tokyodesc"
+        android:gravity="center"
+        android:text="@string/tokyo"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="@dimen/title" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/visitpage" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/visitpage" />
+
+            <Button
+                android:id="@+id/buttontokyovisiting"
+                android:layout_width="match_parent"
+                android:layout_height="154dp"
+                android:background="@drawable/placestokyo"
+                android:text="@string/visittokyo"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txtsize" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/visitpage" />
+
+            <Button
+                android:id="@+id/buttontokyohistory"
+                android:layout_width="match_parent"
+                android:layout_height="174dp"
+                android:background="@drawable/histjapan"
+                android:text="@string/tkhist"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txtsize" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="24dp"
+                android:text="@string/visitpage" />
+
+            <Button
+                android:id="@+id/buttonfood"
+                android:layout_width="match_parent"
+                android:layout_height="167dp"
+                android:background="@drawable/foodtokyo"
+                android:text="@string/foodtokyo"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txtsize" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

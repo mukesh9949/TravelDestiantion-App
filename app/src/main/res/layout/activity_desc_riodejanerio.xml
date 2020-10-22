@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".desc_riodejanerio">
+
+    <TextView
+        android:id="@+id/textView44"
+        android:layout_width="match_parent"
+        android:layout_height="209dp"
+        android:background="@drawable/riode"
+        android:gravity="center"
+        android:text="@string/riode"
+        android:textColor="@android:color/background_light"
+        android:textSize="@dimen/title"
+        tools:text="@string/riode" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView49"
+                android:layout_width="match_parent"
+                android:layout_height="58dp" />
+
+            <Button
+                android:id="@+id/buttonriohist"
+                android:layout_width="match_parent"
+                android:layout_height="176dp"
+                android:background="@drawable/rodehistory"
+                android:text="@string/descriodejanerio"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txt" />
+
+            <TextView
+                android:id="@+id/textView46"
+                android:layout_width="match_parent"
+                android:layout_height="46dp" />
+
+            <Button
+                android:id="@+id/buttonriobest"
+                android:layout_width="match_parent"
+                android:layout_height="157dp"
+                android:background="@drawable/riodejaneirobest"
+                android:text="@string/visitriodejaniero"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txt" />
+
+            <TextView
+                android:id="@+id/textView47"
+                android:layout_width="match_parent"
+                android:layout_height="58dp" />
+
+            <Button
+                android:id="@+id/buttonriofood"
+                android:layout_width="match_parent"
+                android:layout_height="142dp"
+                android:background="@drawable/rodejaneriofood"
+                android:text="@string/foodriodejanerio"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txt" />
+
+            <TextView
+                android:id="@+id/textView48"
+                android:layout_width="match_parent"
+                android:layout_height="59dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

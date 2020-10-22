@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".desc_isthanbull">
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="match_parent"
+        android:layout_height="233dp"
+        android:background="@drawable/isthabulltitle"
+        android:gravity="center"
+        android:text="@string/isthatitle"
+        android:textColor="@android:color/background_light"
+        android:textSize="@dimen/title" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView30"
+                android:layout_width="match_parent"
+                android:layout_height="70dp" />
+
+            <Button
+                android:id="@+id/buttonisthanhist"
+                android:layout_width="match_parent"
+                android:layout_height="164dp"
+                android:background="@drawable/isthanhist"
+                android:text="@string/descisthanbull"
+                android:textColor="@color/colorAccent"
+                android:textSize="@dimen/txt" />
+
+            <TextView
+                android:id="@+id/textView31"
+                android:layout_width="match_parent"
+                android:layout_height="58dp" />
+
+            <Button
+                android:id="@+id/buttonisthanbest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/isthanbest"
+                android:text="@string/visitisthabull"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txt" />
+
+            <TextView
+                android:id="@+id/textView32"
+                android:layout_width="match_parent"
+                android:layout_height="49dp" />
+
+            <Button
+                android:id="@+id/buttonisthanfood"
+                android:layout_width="match_parent"
+                android:layout_height="152dp"
+                android:background="@drawable/isthanbullfood"
+                android:text="@string/foodisthanbull"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txt" />
+
+            <TextView
+                android:id="@+id/textView34"
+                android:layout_width="match_parent"
+                android:layout_height="50dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

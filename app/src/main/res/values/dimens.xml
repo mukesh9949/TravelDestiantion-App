@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title">50sp</dimen>
+    <dimen name="txtsize">30sp</dimen>
+    <dimen name="desctitle">40sp</dimen>
+    <dimen name="tt">45sp</dimen>
+    <dimen name="ttsp">45sp</dimen>
+    <dimen name="txt">22sp</dimen>
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".desc_newyork">
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="match_parent"
+        android:layout_height="234dp"
+        android:background="@drawable/newyork"
+        android:gravity="center"
+        android:text="@string/newyork"
+        android:textColor="@android:color/background_light"
+        android:textSize="@dimen/title" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView35"
+                android:layout_width="match_parent"
+                android:layout_height="61dp" />
+
+            <Button
+                android:id="@+id/buttonnewyorkhist"
+                android:layout_width="match_parent"
+                android:layout_height="176dp"
+                android:background="@drawable/historystatue"
+                android:text="@string/descnewyork"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txt" />
+
+            <TextView
+                android:id="@+id/textView36"
+                android:layout_width="match_parent"
+                android:layout_height="52dp" />
+
+            <Button
+                android:id="@+id/buttonnewyorkbest"
+                android:layout_width="match_parent"
+                android:layout_height="166dp"
+                android:background="@drawable/newyorkbest"
+                android:text="@string/visitnewyork"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txt" />
+
+            <TextView
+                android:id="@+id/textView37"
+                android:layout_width="match_parent"
+                android:layout_height="52dp" />
+
+            <Button
+                android:id="@+id/buttonnewyorkfood"
+                android:layout_width="match_parent"
+                android:layout_height="158dp"
+                android:background="@drawable/foodnycc"
+                android:text="@string/foodnewyork"
+                android:textColor="@android:color/background_light"
+                android:textSize="@dimen/txt" />
+
+            <TextView
+                android:id="@+id/textView38"
+                android:layout_width="match_parent"
+                android:layout_height="59dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
